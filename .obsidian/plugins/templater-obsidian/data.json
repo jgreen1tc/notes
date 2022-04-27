@@ -1,0 +1,49 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "5. Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "0. Daily Notes",
+      "template": "5. Templates/0. Daily Note.md"
+    },
+    {
+      "folder": "2. Quick Notes",
+      "template": "5. Templates/1. OKR.md"
+    },
+    {
+      "folder": "3. Focused Notes",
+      "template": "5. Templates/2. Cornell Note.md"
+    },
+    {
+      "folder": "4. Project MOCs",
+      "template": "5. Templates/MOC Template.md"
+    },
+    {
+      "folder": "1. Workflow/User Stories",
+      "template": "5. Templates/1. OKR.md"
+    },
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "67ebe0043396226b",
+    "type": "split",
+    "children": [
+      {
+        "id": "610a32a5ad5b54c8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "5. Templates/3. MOC Template.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "369d0566dc1b415e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eafb074e47eeb88c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfce5ea976c37555",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "af1c19ebd0f5eaf3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1e79e5cfce06acd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8901a9d90d8fdd08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4554a2edb58f3c79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Templates/3. MOC Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68bfceb28442c81e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a277d225fe39c09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. Templates/3. MOC Template.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "918ddcefe6d09413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af9c586c3bc1f801",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "1. Workflow/Boards/0. jgreen-io.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "610a32a5ad5b54c8",
+  "lastOpenFiles": [
+    "5. Templates/3. MOC Template.md",
+    "5. Templates/2. Cornell Note.md",
+    "5. Templates/1. User Story.md",
+    "5. Templates/0. Daily Note.md",
+    "2. Quick Notes/OneFeed.md",
+    "2. Quick Notes/Projects.md",
+    "2. Quick Notes/Skills.md",
+    "0. Daily Notes/2022-04-26.md",
+    "2. Quick Notes/Finish LaunchCode Resume Template.md",
+    "1. Workflow/User Stories/Obsidian templates.md"
+  ]
+}
