@@ -3,10 +3,10 @@
   "show-checkboxes": true,
   "hide-tags-in-title": true,
   "date-picker-week-start": 1,
-  "new-note-template": "5. Templates/1. OKR.md",
+  "new-note-template": "5. Templates/ii. Objective.md",
   "show-relative-date": true,
   "link-date-to-daily-note": true,
   "prepend-archive-date": true,
   "prepend-archive-separator": "- ",
-  "new-note-folder": "1. Workflow/User Stories"
+  "new-note-folder": "2. Projects/iii. Objectives"
 }

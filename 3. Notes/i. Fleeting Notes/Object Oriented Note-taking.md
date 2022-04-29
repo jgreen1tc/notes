@@ -1,0 +1,1 @@
+- Linking nouns to show relationships between ideas is similar to relationships between objects in OOP

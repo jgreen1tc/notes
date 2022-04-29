@@ -15,28 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "0. Daily Notes",
-      "template": "5. Templates/0. Daily Note.md"
+      "folder": "4. Timeline/i. Daily Task Dashboards",
+      "template": "5. Templates/i. Daily Note.md"
     },
     {
-      "folder": "2. Quick Notes",
-      "template": "5. Templates/1. OKR.md"
+      "folder": "3. Notes/ii. Literature Notes",
+      "template": "5. Templates/iv. Literature Note.md"
     },
     {
-      "folder": "3. Focused Notes",
-      "template": "5. Templates/2. Cornell Note.md"
-    },
-    {
-      "folder": "4. Project MOCs",
-      "template": "5. Templates/MOC Template.md"
-    },
-    {
-      "folder": "1. Workflow/User Stories",
-      "template": "5. Templates/1. OKR.md"
-    },
-    {
-      "folder": "",
-      "template": ""
+      "folder": "2. Projects/iii. Objectives",
+      "template": "5. Templates/ii. Objective.md"
     }
   ],
   "syntax_highlighting": true,

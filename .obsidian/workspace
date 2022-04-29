@@ -4,15 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "610a32a5ad5b54c8",
+        "id": "984773fdf43e6f0d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Templates/3. MOC Template.md",
+            "file": "3. Notes/ii. Literature Notes/Headline statements.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
+        }
+      },
+      {
+        "id": "722a10d870075865",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,14 +78,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Templates/3. MOC Template.md",
+                "file": "3. Notes/ii. Literature Notes/Headline statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -89,28 +98,27 @@
             }
           },
           {
+            "id": "64f93cd313173327",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "6082ed4ab55a83d1",
+        "type": "tabs",
+        "children": [
+          {
             "id": "3a277d225fe39c09",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Templates/3. MOC Template.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "918ddcefe6d09413",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "af9c586c3bc1f801",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "1. Workflow/Boards/0. jgreen-io.md"
+                "file": "3. Notes/ii. Literature Notes/Headline statements.md"
               }
             }
           }
@@ -118,20 +126,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "610a32a5ad5b54c8",
+  "active": "984773fdf43e6f0d",
   "lastOpenFiles": [
-    "5. Templates/3. MOC Template.md",
-    "5. Templates/2. Cornell Note.md",
-    "5. Templates/1. User Story.md",
-    "5. Templates/0. Daily Note.md",
-    "2. Quick Notes/OneFeed.md",
-    "2. Quick Notes/Projects.md",
-    "2. Quick Notes/Skills.md",
-    "0. Daily Notes/2022-04-26.md",
-    "2. Quick Notes/Finish LaunchCode Resume Template.md",
-    "1. Workflow/User Stories/Obsidian templates.md"
+    "3. Notes/ii. Literature Notes/Headline statements.md",
+    "2. Projects/iii. Objectives/Finish LaunchCode Resume Template.md",
+    "4. Timeline/i. Daily Task Dashboards/2022-04-28.md",
+    "4. Timeline/i. Daily Task Dashboards/2022-04-27.md",
+    "5. Templates/iii. Literature Note.md",
+    "3. Notes/i. Fleeting Notes/ATS.md",
+    "3. Notes/i. Fleeting Notes/ZK Note Structure.md",
+    "3. Notes/i. Fleeting Notes/Wireframes.md",
+    "3. Notes/i. Fleeting Notes/Untitled.md",
+    "2. Projects/iii. Objectives/Model a solo agile workflow by developing my workflow in Obsidian.md"
   ]
 }

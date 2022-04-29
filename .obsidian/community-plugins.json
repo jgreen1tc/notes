@@ -7,9 +7,11 @@
   "review-obsidian",
   "table-editor-obsidian",
   "templater-obsidian",
-  "sliding-panes-obsidian",
   "obsidian-tasks-plugin",
   "dataview",
   "obsidian-languagetool-plugin",
-  "obsidian-icons-plugin"
+  "obsidian-icons-plugin",
+  "obsidian-relative-line-numbers",
+  "obsidian-vimrc-support",
+  "sliding-panes-obsidian"
 ]

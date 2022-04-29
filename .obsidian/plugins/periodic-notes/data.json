@@ -4,32 +4,32 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "",
-    "template": "5. Templates/Note Template.md",
-    "folder": "2. Quick Notes/Daily",
+    "template": "5. Templates/i. Daily Note.md",
+    "folder": "4. Timeline/i. Daily Task Dashboards",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "5. Templates/Note Template.md",
-    "folder": "3. Focused Notes",
+    "template": "",
+    "folder": "4. Timeline/ii. Weekly Analysis",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": "",
+    "folder": "4. Timeline/iii. Monthly Analysis",
     "enabled": true
   },
   "quarterly": {
-    "format": "",
+    "format": "YYYY-[Q]Q",
     "template": "",
-    "folder": "",
+    "folder": "4. Timeline/iv. Quarterly Analysis",
     "enabled": true
   },
   "yearly": {
-    "format": "",
+    "format": "YYYY",
     "template": "",
-    "folder": "",
+    "folder": "4. Timeline/v. Yearly Analysis",
     "enabled": true
   }
 }

@@ -3,8 +3,12 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "2. Quick Notes",
+  "newFileFolderPath": "3. Notes/i. Fleeting Notes",
   "spellcheckDictionary": [
     "OneFeed"
-  ]
+  ],
+  "showLineNumber": true,
+  "vimMode": true,
+  "showFrontmatter": true,
+  "showUnsupportedFiles": true
 }

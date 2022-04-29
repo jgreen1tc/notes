@@ -1,4 +1,8 @@
 {
   "monospaceFontFamily": "Source Code Pro",
-  "textFontFamily": "Source Code Pro"
+  "textFontFamily": "Source Code Pro",
+  "enabledCssSnippets": [
+    "clean-embeds-all"
+  ],
+  "interfaceFontFamily": "Courier New"
 }
