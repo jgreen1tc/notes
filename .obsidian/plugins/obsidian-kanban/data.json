@@ -3,10 +3,10 @@
   "show-checkboxes": true,
   "hide-tags-in-title": true,
   "date-picker-week-start": 1,
-  "new-note-template": "5. Templates/ii. Objective.md",
+  "new-note-template": "5. Templates/i. User Story.md",
   "show-relative-date": true,
   "link-date-to-daily-note": true,
   "prepend-archive-date": true,
   "prepend-archive-separator": "- ",
-  "new-note-folder": "2. Projects/iii. Objectives"
+  "new-note-folder": "3. Notes/i. Inbox"
 }

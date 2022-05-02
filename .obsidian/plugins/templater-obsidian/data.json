@@ -16,15 +16,11 @@
   "folder_templates": [
     {
       "folder": "4. Timeline/i. Daily Task Dashboards",
-      "template": "5. Templates/i. Daily Note.md"
+      "template": "5. Templates/iii. Daily Note.md"
     },
     {
-      "folder": "3. Notes/ii. Literature Notes",
-      "template": "5. Templates/iv. Literature Note.md"
-    },
-    {
-      "folder": "2. Projects/iii. Objectives",
-      "template": "5. Templates/ii. Objective.md"
+      "folder": "3. Notes/ii. Reference",
+      "template": "5. Templates/ii. Reference Note.md"
     }
   ],
   "syntax_highlighting": true,

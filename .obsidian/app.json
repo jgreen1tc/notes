@@ -3,12 +3,14 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "3. Notes/i. Fleeting Notes",
+  "newFileFolderPath": "3. Notes/i. Inbox",
   "spellcheckDictionary": [
     "OneFeed"
   ],
   "showLineNumber": true,
   "vimMode": true,
   "showFrontmatter": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": false,
+  "trashOption": "local"
 }
