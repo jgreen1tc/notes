@@ -10,7 +10,7 @@ LANDING_DESCRIPTION = ""
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "i.\ README.md"
 # (Optional) Site title on landing page
-LANDING_TITLE = "PKM by Jordan Green"
+LANDING_TITLE = "home"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/jgreen1tc/devel-md"
