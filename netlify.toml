@@ -19,7 +19,7 @@ SITE_TITLE = "Jordan Green"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
-SITE_URL = "jgreen.netlify.app"
+SITE_URL = "https://jgreen.netlify.app"
 # (Optional) Site Timezone
 TIMEZONE = ""
 ZOLA_VERSION = ""
