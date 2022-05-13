@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3785fc7772001ade",
+        "id": "2349cad995c58ddd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2. Projects/i. MOCs/OneFeed.md",
+            "file": "3. Notes/i. Inbox/netlify.toml.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Projects/i. MOCs/OneFeed.md",
+                "file": "3. Notes/i. Inbox/netlify.toml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Projects/i. MOCs/OneFeed.md"
+                "file": "3. Notes/i. Inbox/netlify.toml.md"
               }
             }
           }
@@ -120,8 +120,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3785fc7772001ade",
+  "active": "2349cad995c58ddd",
   "lastOpenFiles": [
+    "3. Notes/i. Inbox/netlify.toml.md",
+    "0. README/i. README.md",
     "2. Projects/i. MOCs/OneFeed.md",
     "2. Projects/i. MOCs/Catalyst.md",
     "2. Projects/i. MOCs/Carondelet Food Patch.md",
@@ -129,8 +131,6 @@
     "3. Notes/i. Inbox/C-Establish MVP.md",
     "3. Notes/i. Inbox/User Stories.md",
     "4. Timeline/i. Daily Task Dashboards/2022-05-10.md",
-    "3. Notes/i. Inbox/Session-Handling Utilities.md",
-    "4. Timeline/i. Daily Task Dashboards/2022-05-04.md",
-    "3. Notes/i. Inbox/User Authentication.md"
+    "3. Notes/i. Inbox/Session-Handling Utilities.md"
   ]
 }
