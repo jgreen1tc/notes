@@ -1,0 +1,5 @@
+- Accomplished to date
+- Tech stack
+- My contributions
+- Most proud of
+- Issue team faced

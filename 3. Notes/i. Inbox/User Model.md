@@ -37,39 +37,13 @@ public class User extends AbstractEntity {
 
 Notice that the constructor takes a parameter named password and uses it to set the value of pwHash. We mentioned previously that we should never store passwords, so in a moment, we will update line 26 by creating a hash from the given password to store.
 
-## Hashing Passwords
-Add as `implementation` to `build.gradle`:
-```java
-org.springframework.security:spring-security-crypto
-```
-
-### BCryptPasswordEncoder
-- Creates and verifies hashes
-- Create variable and update constructor to compare:
-```java
-private static final BCryptPasswordEncoder encoder = new BCryptPasswordEncoder();
-
-public User(String username, String password) {
-   this.username = username;
-   this.pwHash = encoder.encode(password);
-}
-```
-
-## Creating the UserRepository
-- Needed in order to access User objects stored in the database
-```java
-public interface UserRepository extends CrudRepository<User, Integer> {
-
-   User findByUsername(String username);
-
-}
-```
-
 
 ---
 # Related
 [[User Authentication]]
-[Salting](https://en.wikipedia.org/wiki/Salt_(cryptography))
+[[Hashing Passwords]]
+[[User Repository]]
+
 
 ---
 # Reference

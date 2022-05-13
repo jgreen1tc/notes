@@ -8,6 +8,6 @@
 *What objectives need to be accomplished in order to address the situation?*
 - [x] Connect MySQL database 📅 2022-05-02 ✅ 2022-04-30
 - [ ] Refresh knowledge on [[User Authentication|user authentication]]
-- [ ] Create [[User Model|models]] and [[UserController|controllers]] to allow terminal based login
+- [ ] Create [[User Model|models]] and [[Authentication Controller|controllers]] to allow terminal based login
 
 ---
