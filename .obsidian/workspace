@@ -7,12 +7,9 @@
         "id": "55bbccbb8004eae1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "5. Templates/iv. Sprint Review.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "2. Projects/ii. Boards/Carondelet Food Patch.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Templates/iv. Sprint Review.md",
+                "file": "2. Projects/ii. Boards/Carondelet Food Patch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Templates/iv. Sprint Review.md"
+                "file": "2. Projects/ii. Boards/Carondelet Food Patch.md"
               }
             }
           }
@@ -122,15 +119,15 @@
   },
   "active": "55bbccbb8004eae1",
   "lastOpenFiles": [
+    "2. Projects/ii. Boards/Carondelet Food Patch.md",
+    "2. Projects/i. MOCs/Carondelet Food Patch.md",
+    "3. Notes/i. Inbox/CFP-Consult with client about defining MVP.md",
+    "3. Notes/i. Inbox/resume advice.md",
+    "3. Notes/i. Inbox/User Pool ID.md",
+    "3. Notes/i. Inbox/App Client ID.md",
     "5. Templates/iv. Sprint Review.md",
     "5. Templates/v. Sprint Retrospective.md",
     "3. Notes/i. Inbox/netlify.toml.md",
-    "0. README/i. README.md",
-    "2. Projects/i. MOCs/OneFeed.md",
-    "2. Projects/i. MOCs/Catalyst.md",
-    "2. Projects/i. MOCs/Carondelet Food Patch.md",
-    "2. Projects/ii. Boards/Catalyst.md",
-    "3. Notes/i. Inbox/C-Establish MVP.md",
-    "3. Notes/i. Inbox/User Stories.md"
+    "0. README/i. README.md"
   ]
 }

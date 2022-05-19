@@ -7,6 +7,6 @@
 # Objectives
 *What objectives need to be accomplished in order to address the situation?*
 - [x] Establish [[MVP]] definition for client so that we are on the same page 📅 2022-04-30 ✅ 2022-04-30
-- [ ] Record requirements as [[User Stories]] to help dictate [[User Experience]] 📅 2022-05-01
+- [x] Record requirements as [[User Stories]] to help dictate [[User Experience]] 📅 2022-05-01 ✅ 2022-05-18
 
 ---

@@ -6,17 +6,17 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] Create CMS backend with nodejs
-- [ ] Create Angular Front-end
+- [ ] CFP-Consult with client about streamlining About/Home page
 
 
 ## To Do
 
-- [ ] [[CFP-Consult with client about defining MVP]]
+- [ ] CFP-Create Events page
 
 
 ## In Progress
 
+- [ ] [[CFP-Consult with client about defining MVP]]
 - [ ] Research [[Food Patch FB Page]]
 
 
