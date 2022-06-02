@@ -6,23 +6,23 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] CFP-Consult with client about streamlining About/Home page
 
 
 ## To Do
 
-- [ ] CFP-Create Events page
+- [ ] CFP-Consult with client about streamlining About/Home page
 
 
 ## In Progress
 
-- [ ] [[CFP-Consult with client about defining MVP]]
-- [ ] Research [[Food Patch FB Page]]
 
 
 ## Complete
 
 **Complete**
+- [x] Research [[Food Patch FB Page]]
+- [x] [[CFP-Consult with client about defining MVP]]
+- [x] CFP-Create Events page
 
 
 

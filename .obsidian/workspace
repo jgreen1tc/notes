@@ -7,9 +7,12 @@
         "id": "55bbccbb8004eae1",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2. Projects/ii. Boards/Carondelet Food Patch.md"
+            "file": "test.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Projects/ii. Boards/Carondelet Food Patch.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Projects/ii. Boards/Carondelet Food Patch.md"
+                "file": "test.md"
               }
             }
           }
@@ -119,15 +122,15 @@
   },
   "active": "55bbccbb8004eae1",
   "lastOpenFiles": [
+    "test.md",
+    "home.md",
+    "2. Projects/ii. Boards/OneFeed.md",
+    "2. Projects/ii. Boards/Catalyst.md",
+    "3. Notes/i. Inbox/C-Create restful APIs.md",
+    "3. Notes/i. Inbox/Add Oh-My-Zsh plugins.md",
     "2. Projects/ii. Boards/Carondelet Food Patch.md",
     "2. Projects/i. MOCs/Carondelet Food Patch.md",
-    "3. Notes/i. Inbox/CFP-Consult with client about defining MVP.md",
-    "3. Notes/i. Inbox/resume advice.md",
-    "3. Notes/i. Inbox/User Pool ID.md",
-    "3. Notes/i. Inbox/App Client ID.md",
-    "5. Templates/iv. Sprint Review.md",
-    "5. Templates/v. Sprint Retrospective.md",
-    "3. Notes/i. Inbox/netlify.toml.md",
-    "0. README/i. README.md"
+    "0. README/i. README.md",
+    "3. Notes/i. Inbox/CFP-Consult with client about defining MVP.md"
   ]
 }

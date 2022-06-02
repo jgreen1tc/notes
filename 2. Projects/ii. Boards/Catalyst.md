@@ -6,24 +6,26 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] C-Manage and authenticate users
-- [ ] C-Create serverless backend
-- [ ] C-Create restful APIs
+- [ ] [[C-Create restful APIs]]
 
 
 ## To Do
 
-- [ ] C-Create landing page as a static site
+- [ ] C-Create Character Sheet
+- [ ] C-Create Game Dashboard
 
 
 ## In Progress
 
+- [ ] C-Create landing page as a static site
 - [ ] [[C-Establish MVP]]
 
 
 ## Complete
 
 **Complete**
+- [x] C-Create serverless backend
+- [x] C-Manage and authenticate users
 
 
 

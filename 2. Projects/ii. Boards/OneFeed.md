@@ -15,6 +15,7 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] [[OF-Finish User Login functionality]]
+- [ ] OF-Finish Angular Front-end
 
 
 ## Complete
