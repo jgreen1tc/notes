@@ -1,0 +1,3 @@
+- Multiple programs appear to run simultaneously
+	- "dispatcher" rapidly switches between them
+	- maximizes efficiency of the computer by keeping the CPU busy while the channels perform I/O

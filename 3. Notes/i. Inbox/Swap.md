@@ -1,0 +1,1 @@
+In MVS, programs can be swapped out. This is when *all* of aprograms pages are moved from main memory to the page dataset. For example, when you scroll down in TSO, it sends you to the next screen, then swaps you out while you read it.

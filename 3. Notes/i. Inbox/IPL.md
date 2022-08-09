@@ -1,0 +1,1 @@
+Initial Program Load - loading the operating system into the computers main memory

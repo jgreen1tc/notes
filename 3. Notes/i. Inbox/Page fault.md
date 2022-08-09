@@ -1,0 +1,1 @@
+Interrupts program while the operating system locates a free page in main memory and reads the contents back in from disk.

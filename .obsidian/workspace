@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "55bbccbb8004eae1",
+        "id": "098d475444846f91",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "test.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+            "file": "2. Projects/ii. Boards/PKM.md"
           }
         }
       }
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "2. Projects/ii. Boards/PKM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "2. Projects/ii. Boards/PKM.md"
               }
             }
           }
@@ -120,17 +117,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "55bbccbb8004eae1",
+  "active": "098d475444846f91",
   "lastOpenFiles": [
-    "test.md",
-    "home.md",
-    "2. Projects/ii. Boards/OneFeed.md",
-    "2. Projects/ii. Boards/Catalyst.md",
-    "3. Notes/i. Inbox/C-Create restful APIs.md",
-    "3. Notes/i. Inbox/Add Oh-My-Zsh plugins.md",
-    "2. Projects/ii. Boards/Carondelet Food Patch.md",
-    "2. Projects/i. MOCs/Carondelet Food Patch.md",
-    "0. README/i. README.md",
-    "3. Notes/i. Inbox/CFP-Consult with client about defining MVP.md"
+    "3. Notes/i. Inbox/Character Encoding.md",
+    "3. Notes/i. Inbox/SVC interrupt.md",
+    "3. Notes/i. Inbox/Interrupts.md",
+    "3. Notes/i. Inbox/IPL.md",
+    "3. Notes/i. Inbox/Restart interrupt.md",
+    "3. Notes/i. Inbox/Machine check interrupt.md",
+    "3. Notes/i. Inbox/MVS.md",
+    "3. Notes/i. Inbox/zSeries Hardware.md",
+    "3. Notes/i. Inbox/CEC.md",
+    "3. Notes/i. Inbox/Multiprocessing.md"
   ]
 }

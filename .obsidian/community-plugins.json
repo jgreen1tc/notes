@@ -14,5 +14,7 @@
   "obsidian-relative-line-numbers",
   "obsidian-vimrc-support",
   "sliding-panes-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "obsidian-shellcommands"
 ]

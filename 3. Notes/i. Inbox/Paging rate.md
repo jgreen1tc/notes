@@ -1,0 +1,1 @@
+The rate at which the process of [[page fault]] generation is occurring. Systems running more programs than fit compfortably in main memory begin to slow down due to excessive paging

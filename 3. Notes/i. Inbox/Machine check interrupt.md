@@ -1,0 +1,1 @@
+Hardware error detected - indicate trouble such as an interrupt from an unknown device (CE plugged device into wrong port) or a lost device (reconfigured a device from Hardware Master console without first varying it offline)

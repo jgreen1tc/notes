@@ -1,0 +1,12 @@
+- z16 processor, introduced May 2022
+- CP: General-purpose Central Processors
+- SAP: System Assist Processors (I/O subsystem)
+- IFL: Integrated Facility for Linux (n/a for /OS - reduces license cost)
+- zIIP: System z Integrated Information Processor, used for Java, encryption, XML, Web, etc.
+- zAAP: System z Application Assist Processors. Eliminated by z13
+- Each **CPC Drawer** contains processors, memory, and storage controllers
+- Each SCM (Single Chip Module) contains 16 cores
+- Up to 40 TB Memory
+- Up to 200 CPs for OS use
+- Up to 85 LPARS (Logical Partitions)
+- Millions of Instructions/Second (MIPS) no longer published
