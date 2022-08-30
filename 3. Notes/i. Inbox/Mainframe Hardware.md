@@ -1,0 +1,10 @@
+- Mainframe computers
+	- [[CPU]]
+	- [[Memory]]
+	- peripherals
+		- monitors
+		- terminals
+		- printers
+		- tape drives
+		- disk drives
+		- networks

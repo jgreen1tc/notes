@@ -1,0 +1,1 @@
+Gives acces to the mainframe console output stream

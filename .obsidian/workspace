@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "098d475444846f91",
+        "id": "6cf4d40bb693a92b",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "2. Projects/ii. Boards/PKM.md"
+            "file": "3. Notes/i. Inbox/Prod mainframe access request form.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -38,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "LPAR",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Projects/ii. Boards/PKM.md",
+                "file": "3. Notes/i. Inbox/Prod mainframe access request form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Projects/ii. Boards/PKM.md"
+                "file": "3. Notes/i. Inbox/Prod mainframe access request form.md"
               }
             }
           }
@@ -115,19 +118,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "098d475444846f91",
+  "active": "6cf4d40bb693a92b",
   "lastOpenFiles": [
-    "3. Notes/i. Inbox/Character Encoding.md",
-    "3. Notes/i. Inbox/SVC interrupt.md",
-    "3. Notes/i. Inbox/Interrupts.md",
-    "3. Notes/i. Inbox/IPL.md",
-    "3. Notes/i. Inbox/Restart interrupt.md",
-    "3. Notes/i. Inbox/Machine check interrupt.md",
-    "3. Notes/i. Inbox/MVS.md",
-    "3. Notes/i. Inbox/zSeries Hardware.md",
-    "3. Notes/i. Inbox/CEC.md",
-    "3. Notes/i. Inbox/Multiprocessing.md"
+    "3. Notes/i. Inbox/SA IOM.md",
+    "6. Media/PT24681_A700_ISPF-JCL_zOS_ProTechLogoed.pdf",
+    "3. Notes/i. Inbox/Untitled 1.md",
+    "3. Notes/i. Inbox/JCL.md",
+    "3. Notes/i. Inbox/Symbolic Parameters.md",
+    "3. Notes/i. Inbox/Overrides.md",
+    "3. Notes/i. Inbox/Inserts.md",
+    "3. Notes/i. Inbox/JCL Statements.md",
+    "3. Notes/i. Inbox/SORT.md",
+    "3. Notes/i. Inbox/Untitled.md"
   ]
 }

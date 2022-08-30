@@ -16,5 +16,9 @@
   "sliding-panes-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "cm-editor-syntax-highlight-obsidian",
+  "mrj-jump-to-link",
+  "cycle-through-panes",
+  "obsidian-tabs"
 ]

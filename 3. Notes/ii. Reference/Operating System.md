@@ -1,0 +1,20 @@
+A collection of programs that
+- Manage a computer systems resources
+	- Maximize device utilization
+	- Transfer data between memory and devices at program request
+	- Handle error detection and recovery
+	- Attain maximum possible performance under current workload
+- Schedules work to be done
+	- Determine jobs to be run, based on job control statements
+	- Assign (allocate) resources to programs as necessary
+	- Handle unscheduled work such as time-sharing systems and transaction processing work
+	- Communicate with operator via
+		- Commands (operator to system)
+		- Messages (system to operator)
+- Maintain integrity of system and data
+	- Provide security
+	- Prevent simultaneous update
+	- Prevent deadlock
+- Provides an environment, a context, for application programs to run
+	- Control blocks keep track of all programs in memory, their location, attributes, and status
+	- System services allow application programs to do I/O, manage memory dynamically, handle application errors, and much more

@@ -1,0 +1,1 @@
+Look like [[Sequential Data Set|sequential files]] except for the fact that they are stored in the space of the [[PDS]] instead of out there on their own

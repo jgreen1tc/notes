@@ -1,0 +1,1 @@
+information that is structured and [[Data Organizing|organizing]] for storage, retrieval and processing by programs

@@ -1,0 +1,2 @@
+- Can be represented as a series of lines, each line being a [[Records|record]] or sometimes referred to as a list
+- A collection of related files referred to as a [[Data sets|data set]]

@@ -1,0 +1,10 @@
+- Always named, either permanent or temporary type names
+- Disk data sets have labels; tape data sets usually have labels, but now always
+- Allocation locates existing data sets by identifying the type of media (UNIT) and which particular volume (VOLUME) they reside on
+- Allocation selects a location for a new data set by being informed what UNIT and VOLUME to use
+	- New disk data sets must have a SPACE request
+- Allocation may access disk data sets on an exclusive or shared basis; (tape is always exclusive)
+- Data sets may persist across steps and jobs (or not)
+- Data sets may be cataloged
+- Data sets may be date protected
+- OPEN may require some [[DCB]] parameters

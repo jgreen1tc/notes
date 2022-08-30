@@ -1,0 +1,2 @@
+Set of data blocks that holds the names of all the members in the [[PDS]], along with a pointer to where the corresponding members records are found
+- In many places in [[ISPF]], the directory of a library is referred to as the index.

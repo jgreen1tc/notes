@@ -1,0 +1,1 @@
+[[Data sets]] wherethe records in the file must be written one after the other, and read the same way: one after the other
