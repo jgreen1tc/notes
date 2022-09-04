@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6cf4d40bb693a92b",
+        "id": "e74f7d35ac7a2ad2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Notes/i. Inbox/Prod mainframe access request form.md",
+            "file": "3. Notes/ii. Reference/Resource Contention.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Notes/i. Inbox/Prod mainframe access request form.md",
+                "file": "3. Notes/ii. Reference/Resource Contention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Notes/i. Inbox/Prod mainframe access request form.md"
+                "file": "3. Notes/ii. Reference/Resource Contention.md"
               }
             }
           }
@@ -121,17 +121,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6cf4d40bb693a92b",
+  "active": "e74f7d35ac7a2ad2",
   "lastOpenFiles": [
-    "3. Notes/i. Inbox/SA IOM.md",
-    "6. Media/PT24681_A700_ISPF-JCL_zOS_ProTechLogoed.pdf",
-    "3. Notes/i. Inbox/Untitled 1.md",
-    "3. Notes/i. Inbox/JCL.md",
-    "3. Notes/i. Inbox/Symbolic Parameters.md",
-    "3. Notes/i. Inbox/Overrides.md",
-    "3. Notes/i. Inbox/Inserts.md",
-    "3. Notes/i. Inbox/JCL Statements.md",
-    "3. Notes/i. Inbox/SORT.md",
-    "3. Notes/i. Inbox/Untitled.md"
+    "3. Notes/i. Inbox/Hyperswap.md",
+    "3. Notes/i. Inbox/Thursday 1PM meeting.md",
+    "3. Notes/ii. Reference/Resource Contention.md",
+    "3. Notes/i. Inbox/Resource Contention.md",
+    "5. Templates/vi. SWOT Analysis.md",
+    "5. Templates/v. Sprint Retrospective.md",
+    "5. Templates/iv. Sprint Review.md",
+    "5. Templates/iii. Daily Note.md",
+    "5. Templates/ii. Reference Note.md",
+    "5. Templates/i. User Story.md"
   ]
 }
